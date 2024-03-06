@@ -1,3 +1,5 @@
+// GABRIEL CAMARGO DE SOUZA BORGES
+
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, TextInput, Pressable, Image, Alert, ScrollView, TouchableOpacity  } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
